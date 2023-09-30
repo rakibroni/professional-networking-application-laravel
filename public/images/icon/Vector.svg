@@ -1,0 +1,11 @@
+ <svg
+                    width="24"
+                    height="24"
+                    viewBox="0 0 18 18"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M1 1H17V17H1V1ZM2 2V8.5H8.5V2H2ZM9.5 2V8.5H16V2H9.5ZM16 9.5H9.5V16H16V9.5ZM8.5 16V9.5H2V16H8.5Z"
+                    />
+                  </svg>

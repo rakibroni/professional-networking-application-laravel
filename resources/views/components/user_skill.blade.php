@@ -1,0 +1,1 @@
+<span id="skill_{{ $userSkill->id }}" class="badge ProfileTextWrap TextWrapStyle me-1 mb-2">{{ $userSkill->name }}</span>

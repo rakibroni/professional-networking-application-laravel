@@ -1,0 +1,1 @@
+<span id="{{ $userItem->mainID }}" class="badge ProfileTextWrap TextWrapStyle me-1 mb-2">{{ $userItem->value }}</span>

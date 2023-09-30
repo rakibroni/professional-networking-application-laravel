@@ -1,0 +1,1 @@
+<div class="fw-bold mb-2" style="font-size: 12px">Weitere passende Talente</div>

@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
+
+
+body {
+  font-family: 'Roboto' !important;
+}
+
+
+
+
+
+.cura-col-2 {
+  width: 18% !important;
+}
+
+.cura-col-1 {
+  width: 9% !important;
+}
+
+
+
+._br {
+  border-radius: 4px;
+}
+
+
+
+@media (max-width: 576px) {
+  ._br {
+    border-radius: 0px !important;
+  }
+}
+
+.no-
+
+
+.backgroundhover {
+  background: white;
+}
+
+.backgroundhover:hover {
+  background-color: #F9F9F9 !important;
+  
+}
+
+
+
+
+.NewNotificationBoxStyle {
+  border-left: 4px solid #FF9721;
+
+}
+
+.NewNotificationBoxStyle:hover {
+  border-left: 4px solid #FF9721;
+  background-color: #F9F9F9 !important;
+
+}
+
+.NotificationsBoxLeftFontStyle {
+  font-size: 18px;
+  font-weight: 600;
+  color: #23180C;
+  line-height: 20px;
+
+}
+
+.NotificationsBoxLeftFontStyle2 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.015em;
+  color: #A8A8A8;
+
+}
+
+.NotificationsBoxMidFontStyle {
+  font-size: 18px;
+  font-weight: 600;
+  color: #FF9721;
+  line-height: 20px;
+
+}
+
+.NotificationsBoxMidFontStyle1 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #988F86;
+  line-height: 20px;
+
+}
+
+.ProfilePicTest {
+  border-radius: 150px;
+  height: 60px;
+  width: 60px;
+
+}
+
+.NotificationsBoxMidFontStyle2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #23180C;
+
+
+}
+
+.NotificationsBoxMidFontStyle3 {
+  font-size: 16px;
+  color: #7F7F7F;
+  line-height: 20px;
+
+}
+
+.NotificationsBoxMidFontStyle4 {
+  font-size: 14px;
+  color: #A8A8A8;
+  font-weight: 500;
+
+}
+
+.NotificationsBoxMidFontStyle5 {
+  font-size: 14px;
+  color: #A8A8A8;
+  font-weight: 400;
+
+}
+
+
+@media (max-width: 500px) {
+
+
+  .ProfilePicTest {
+    border-radius: 150px;
+    height: 45px !important;
+    width: 45px !important;
+
+  }
+
+
+  .NotificationsBoxMidFontStyle {
+    font-size: 15px !important;
+    font-weight: 600;
+    color: #FF9721;
+    line-height: 16px !important;
+
+  }
+
+  .NotificationsBoxMidFontStyle1 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #988F86;
+    line-height: 16px;
+
+  }
+
+  .NotificationsBoxMidFontStyle2 {
+    font-size: 13px !important;
+    font-weight: 500;
+    color: #23180C;
+    line-height: 16px !important;
+
+  }
+
+  .NotificationsBoxMidFontStyle3 {
+    font-size: 13px !important;
+    color: #7F7F7F;
+    line-height: 16px !important;
+
+  }
+
+  .NotificationsBoxMidFontStyle4 {
+    font-size: 12px !important;
+    color: #A8A8A8;
+    font-weight: 500;
+    line-height: 16px !important;
+
+  }
+
+  .NotificationsBoxMidFontStyle5 {
+    font-size: 12px !important;
+    color: #A8A8A8;
+    font-weight: 400;
+
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .ProfilePicTest {
+    border-radius: 150px;
+    height: 55px;
+    width: 55px;
+
+  }
+
+  .NotificationsBoxMidFontStyle2 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #23180C;
+
+
+  }
+
+  .NotificationsBoxMidFontStyle3 {
+    font-size: 15px;
+    color: #7F7F7F;
+    line-height: 20px;
+
+  }
+
+  .NotificationsBoxMidFontStyle4 {
+    font-size: 13px;
+    color: #A8A8A8;
+    font-weight: 500;
+
+  }
+
+  .NotificationsBoxMidFontStyle5 {
+    font-size: 13px;
+    color: #A8A8A8;
+    font-weight: 400;
+
+  }
+
+}
+
+.ImageFluid {
+  -webkit-filter: blur(5px);
+  filter: blur(5px)
+}
+
+
+.SeeAllNotifications {
+  font-size: 16px;
+  color: #FF9721;
+  font-weight: 500;
+  border-bottom: 1px solid #D9D8D8;
+}
+
+.scrollable-menu {
+  max-height: 600px;
+  overflow-x: hidden;
+}
+
+.TransparentFooterRight {
+  color: #988F86 !important;
+  font-size: 12px;
+}
+
+.NavBarRight {
+  display: flex;
+  cursor: pointer;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+
+.ProfileBoxRight {
+  border-radius: 5px;
+  background-color: #F6F6F6;
+  cursor: pointer;
+}
+
+
+.InviteFriendsButtonRight1 {
+width: 100%;
+
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+letter-spacing: 0.015em;
+
+color: #988F86;
+}
+
